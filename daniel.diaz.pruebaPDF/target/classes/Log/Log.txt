@@ -1,0 +1,16 @@
+feb 04, 2023 8:06:17 P. M. daniel.diaz.pruebaPDF.Utils guardarLog
+INFORMACIÓN: Comienza la aplicacion
+feb 04, 2023 8:06:17 P. M. daniel.diaz.pruebaPDF.Utils guardarLog
+INFORMACIÓN: Tratando documento
+feb 04, 2023 8:06:17 P. M. daniel.diaz.pruebaPDF.Utils guardarLog
+INFORMACIÓN: Pagina annadida
+feb 04, 2023 8:06:17 P. M. daniel.diaz.pruebaPDF.Utils guardarLog
+INFORMACIÓN: Tratando documento
+feb 04, 2023 8:06:17 P. M. daniel.diaz.pruebaPDF.Utils guardarLog
+INFORMACIÓN: Pagina annadida
+feb 04, 2023 8:06:17 P. M. daniel.diaz.pruebaPDF.Utils guardarLog
+INFORMACIÓN: Tratando documento
+feb 04, 2023 8:06:17 P. M. daniel.diaz.pruebaPDF.Utils guardarLog
+INFORMACIÓN: Pagina annadida
+feb 04, 2023 8:06:17 P. M. daniel.diaz.pruebaPDF.Utils guardarLog
+GRAVE: Error al tratar el documento: src/main/resources/Documentos/Log.pdf
